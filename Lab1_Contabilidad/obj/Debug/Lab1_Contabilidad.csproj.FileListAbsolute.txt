@@ -15,3 +15,20 @@ c:\users\julio\documents\visual studio 2010\Projects\Lab1_Contabilidad\Lab1_Cont
 C:\Users\JULIO\documents\visual studio 2010\Projects\Lab1_Contabilidad\Lab1_Contabilidad\obj\Debug\EditCategory.g.i.cs
 C:\Users\JULIO\documents\visual studio 2010\Projects\Lab1_Contabilidad\Lab1_Contabilidad\obj\Debug\AddCategory.g.i.cs
 C:\Users\JULIO\documents\visual studio 2010\Projects\Lab1_Contabilidad\Lab1_Contabilidad\obj\Debug\ReportByCategory.g.i.cs
+C:\Users\JULIO\Documents\GitHub\Project1_WP\Lab1_Contabilidad\Bin\Debug\ApplicationIcon.png
+C:\Users\JULIO\Documents\GitHub\Project1_WP\Lab1_Contabilidad\Bin\Debug\Background.png
+C:\Users\JULIO\Documents\GitHub\Project1_WP\Lab1_Contabilidad\Bin\Debug\Lab1_Contabilidad.dll
+C:\Users\JULIO\Documents\GitHub\Project1_WP\Lab1_Contabilidad\Bin\Debug\Lab1_Contabilidad.pdb
+C:\Users\JULIO\Documents\GitHub\Project1_WP\Lab1_Contabilidad\Bin\Debug\AppManifest.xaml
+C:\Users\JULIO\Documents\GitHub\Project1_WP\Lab1_Contabilidad\Bin\Debug\Lab1_Contabilidad.xap
+C:\Users\JULIO\Documents\GitHub\Project1_WP\Lab1_Contabilidad\obj\Debug\App.g.i.cs
+C:\Users\JULIO\Documents\GitHub\Project1_WP\Lab1_Contabilidad\obj\Debug\AddCategory.g.i.cs
+C:\Users\JULIO\Documents\GitHub\Project1_WP\Lab1_Contabilidad\obj\Debug\EditCategory.g.i.cs
+C:\Users\JULIO\Documents\GitHub\Project1_WP\Lab1_Contabilidad\obj\Debug\MainPage.g.i.cs
+C:\Users\JULIO\Documents\GitHub\Project1_WP\Lab1_Contabilidad\obj\Debug\MiddleWindow.g.i.cs
+C:\Users\JULIO\Documents\GitHub\Project1_WP\Lab1_Contabilidad\obj\Debug\ReportByCategory.g.i.cs
+C:\Users\JULIO\Documents\GitHub\Project1_WP\Lab1_Contabilidad\obj\Debug\ReportWindow.g.i.cs
+C:\Users\JULIO\Documents\GitHub\Project1_WP\Lab1_Contabilidad\obj\Debug\Lab1_Contabilidad.g.resources
+C:\Users\JULIO\Documents\GitHub\Project1_WP\Lab1_Contabilidad\obj\Debug\Lab1_Contabilidad.dll
+C:\Users\JULIO\Documents\GitHub\Project1_WP\Lab1_Contabilidad\obj\Debug\Lab1_Contabilidad.pdb
+C:\Users\JULIO\Documents\GitHub\Project1_WP\Lab1_Contabilidad\obj\Debug\XapCacheFile.xml
